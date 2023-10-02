@@ -23,7 +23,7 @@ body{
     font-size: 12px;
 }
 
-.conteiner{
+.container{
     display: flex;
     flex-direction: column;
 }
